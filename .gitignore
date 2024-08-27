@@ -4,12 +4,13 @@
 !/README.md
 
 !/docs
-!/docs/**/
+!/docs/*.html
+!/docs/img
 !/docs/img/*.svg
 !/docs/img/*.png
 !/docs/img/*.ico
-!/docs/styles/*.css
-!/docs/**/*.html
+!/docs/static
+!/docs/static/*.css
 
 !/src
 !/src/**/*.go
