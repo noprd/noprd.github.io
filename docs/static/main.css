@@ -1,0 +1,6 @@
+body {
+    background: hsla(0, 0%, 50%, 1);
+    padding: 5vh 5vw;
+    font-family: "Menlo", "Avenir next", "Verdana";
+    font-size: 12pt;
+}
